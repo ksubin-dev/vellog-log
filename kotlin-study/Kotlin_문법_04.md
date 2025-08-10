@@ -27,8 +27,6 @@ fun main() {
 - `nextDouble(start, end)` → **실수 난수 생성**
 
 ```kotlin
-kotlin
-복사편집
 import kotlin.random.Random
 
 fun main() {
